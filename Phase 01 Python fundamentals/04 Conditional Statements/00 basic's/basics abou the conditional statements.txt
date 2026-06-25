@@ -1,0 +1,10 @@
+Conditional Statements from the absolute basics:
+What is a Conditional Statement?
+
+: A conditional statement is used to make decisions in a program.
+In simple words:
+
+IF a condition is True
+    Do something
+ELSE
+    Do something else

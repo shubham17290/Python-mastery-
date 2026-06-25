@@ -1,0 +1,5 @@
+there is a naming convention that is used in the python :
+
+1. Camelcase : shubhamMauyra
+2. PascalCase ; ShubhamMaurya
+3. Snake_case : shubbham_maurya

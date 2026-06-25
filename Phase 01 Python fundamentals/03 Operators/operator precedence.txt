@@ -1,0 +1,12 @@
+This is the Operator precedence order that one should follow while evaluating any expression 
+
+
+()
+**
+*, /, //, %
++, -
+>, <, >=, <=
+==, !=
+not
+and
+or
