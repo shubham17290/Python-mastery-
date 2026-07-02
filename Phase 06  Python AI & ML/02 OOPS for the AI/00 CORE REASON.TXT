@@ -1,0 +1,5 @@
+the major reason behind the learning of the python OOPS concept is to master the oops concept : because this oops concepts are going is to help us in the ..
+because the AI libraries is heavily based on the OOPS concepts : 
+1. Pytorch
+2. TensorFlow
+3. Scikit-Learn 
